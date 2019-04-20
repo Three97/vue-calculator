@@ -1,5 +1,7 @@
 # vue-calculator
 
+Check it out [here](https://three97.github.io/vue-calculator/).
+
 ## Project setup
 ```
 npm install
